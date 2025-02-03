@@ -1,0 +1,1 @@
+This repository demonstrates a common ActionScript 3 type mismatch error and its solution. The `bug.as` file contains code that attempts to concatenate a String and an int using the '+' operator, leading to a runtime error. The `bugSolution.as` file provides the corrected code.
